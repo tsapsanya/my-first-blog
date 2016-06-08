@@ -1,0 +1,3 @@
+https://docs.djangoproject.com/en/1.8/ref/models/fields/#field-types
+
+http://tutorial.djangogirls.org/ru/how_the_internet_works/
