@@ -1,3 +1,10 @@
 https://docs.djangoproject.com/en/1.8/ref/models/fields/#field-types
 
 http://tutorial.djangogirls.org/ru/how_the_internet_works/
+
+--------------------------------------------
+
+source myvenv/bin/activate - запуск окружения
+python manage.py runserver - запуск сервера
+git status - показати зміни 
+git add --all . - обнивити все
