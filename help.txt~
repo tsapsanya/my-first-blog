@@ -5,4 +5,11 @@ http://tutorial.djangogirls.org/ru/how_the_internet_works/
 --------------------------------------------
 
 source myvenv/bin/activate - запуск окружения
+
 python manage.py runserver - запуск сервера
+
+git status - показати зміни 
+git add --all . - вибрати всі зміни
+git status - показати які файли будуть завантажені
+git commit -m "коментар про зміни" - створити правку
+git push - загрузити на сайт
